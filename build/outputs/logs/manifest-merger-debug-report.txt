@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d113734d2ab6eea39b6ebbb06d7adca5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/3ca0e7d8964e15c664095ae5f99afadd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alig/.gradle/caches/transforms-2/files-2.1/e7e730aa4be2122aad1e46c976778cfb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/00a0020e70bcb67842e1fe8f0efd3a92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/624f6e368dcdc9276348bf1035e3168d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/2b90c77bd565f51419a4d17b379a9cdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/7a3e2fea772c9909a51b54ba35f19e02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a311e99bd07a52378a04dd52a44c0f3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9dc4ddf7ac09439cda2474b7bf0817ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/c873aac992ba9f8e75397afd89e8b0ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/763c770bdd311afe61e49deb5ef3f087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fe7d848d6ccc57731bf00cb09c49b39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/eb7c29c39b37aa43aa6660ff2acc11d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/f6d2ddbc9eb46f41e4e36e0b76ea5a76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fb6857bf4077d6cb0fa1ea7b27e28e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/77a1959878a3ec869bf7bb2e5276b233/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1c2ce1b0b5dc7726233560206fcdd1fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/5636afdf3476d86f30c1e711f671123e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/596085c66124e41e70cc7c5e8e75e74f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a82aac77725723da92ac77f00350868d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d46127558ef6eaa971dc1c2044a18e27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/1a056cfdeec87df1509989deb2e12726/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/8129cbad45d98ebbc9a9f4099c621180/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/e90fcdf35ad7e47e40574fda4b0d1060/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/95d7cc9e54f4073c5d8288704d66c949/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/51cb889610d03a02025b2b00c46af453/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/feb7fa80972b0948e87a82462a8755de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/aa9786e5f3287076e4ef6b7dcbc7e379/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/658d872e78335da94467f332d240d072/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/5e41ffa919f8e265cdc51cafcc7c85d9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d113734d2ab6eea39b6ebbb06d7adca5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d113734d2ab6eea39b6ebbb06d7adca5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alig/.gradle/caches/transforms-2/files-2.1/e7e730aa4be2122aad1e46c976778cfb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alig/.gradle/caches/transforms-2/files-2.1/e7e730aa4be2122aad1e46c976778cfb/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/596085c66124e41e70cc7c5e8e75e74f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/596085c66124e41e70cc7c5e8e75e74f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.MainActivity
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d113734d2ab6eea39b6ebbb06d7adca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d113734d2ab6eea39b6ebbb06d7adca5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/3ca0e7d8964e15c664095ae5f99afadd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/3ca0e7d8964e15c664095ae5f99afadd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alig/.gradle/caches/transforms-2/files-2.1/e7e730aa4be2122aad1e46c976778cfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alig/.gradle/caches/transforms-2/files-2.1/e7e730aa4be2122aad1e46c976778cfb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/00a0020e70bcb67842e1fe8f0efd3a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/00a0020e70bcb67842e1fe8f0efd3a92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/624f6e368dcdc9276348bf1035e3168d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/624f6e368dcdc9276348bf1035e3168d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/2b90c77bd565f51419a4d17b379a9cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/2b90c77bd565f51419a4d17b379a9cdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/7a3e2fea772c9909a51b54ba35f19e02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/7a3e2fea772c9909a51b54ba35f19e02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a311e99bd07a52378a04dd52a44c0f3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a311e99bd07a52378a04dd52a44c0f3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9dc4ddf7ac09439cda2474b7bf0817ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9dc4ddf7ac09439cda2474b7bf0817ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/c873aac992ba9f8e75397afd89e8b0ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/c873aac992ba9f8e75397afd89e8b0ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/763c770bdd311afe61e49deb5ef3f087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/763c770bdd311afe61e49deb5ef3f087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fe7d848d6ccc57731bf00cb09c49b39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fe7d848d6ccc57731bf00cb09c49b39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/eb7c29c39b37aa43aa6660ff2acc11d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/eb7c29c39b37aa43aa6660ff2acc11d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/f6d2ddbc9eb46f41e4e36e0b76ea5a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/f6d2ddbc9eb46f41e4e36e0b76ea5a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fb6857bf4077d6cb0fa1ea7b27e28e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1fb6857bf4077d6cb0fa1ea7b27e28e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/77a1959878a3ec869bf7bb2e5276b233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/77a1959878a3ec869bf7bb2e5276b233/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1c2ce1b0b5dc7726233560206fcdd1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/1c2ce1b0b5dc7726233560206fcdd1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/5636afdf3476d86f30c1e711f671123e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/5636afdf3476d86f30c1e711f671123e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/9e9f24b3198f6a559f5bb933a6ed9b5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/596085c66124e41e70cc7c5e8e75e74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/596085c66124e41e70cc7c5e8e75e74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a82aac77725723da92ac77f00350868d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/a82aac77725723da92ac77f00350868d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d46127558ef6eaa971dc1c2044a18e27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/d46127558ef6eaa971dc1c2044a18e27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/1a056cfdeec87df1509989deb2e12726/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/1a056cfdeec87df1509989deb2e12726/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/8129cbad45d98ebbc9a9f4099c621180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/8129cbad45d98ebbc9a9f4099c621180/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/e90fcdf35ad7e47e40574fda4b0d1060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/e90fcdf35ad7e47e40574fda4b0d1060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/95d7cc9e54f4073c5d8288704d66c949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/95d7cc9e54f4073c5d8288704d66c949/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/51cb889610d03a02025b2b00c46af453/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/51cb889610d03a02025b2b00c46af453/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/feb7fa80972b0948e87a82462a8755de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alig/.gradle/caches/transforms-2/files-2.1/feb7fa80972b0948e87a82462a8755de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/aa9786e5f3287076e4ef6b7dcbc7e379/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/aa9786e5f3287076e4ef6b7dcbc7e379/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/658d872e78335da94467f332d240d072/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/658d872e78335da94467f332d240d072/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/5e41ffa919f8e265cdc51cafcc7c85d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alig/.gradle/caches/transforms-2/files-2.1/5e41ffa919f8e265cdc51cafcc7c85d9/AndroidManifest.xml:20:5-44
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		ADDED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alig/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml

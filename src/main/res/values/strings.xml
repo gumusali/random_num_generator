@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Number</string>
+    <string name="alig">AliG</string>
+    <string name="first_number">Click the button to generate first number</string>
+    <string name="generate">Generate</string>
+    <string name="hint_from">Start</string>
+    <string name="hint_to">End (included)</string>
+
+    <!-- Warnings -->
+    <string name="warning0">Warning</string>
+    <string name="warning1">First number cannot be equal or greater than second number</string>
+    <string name="warning2">Numbers must be greater than 0</string>
+</resources>
